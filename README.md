@@ -1,0 +1,1 @@
+ MoviesDB 🎬 – a sleek Jetpack Compose app powered by the TMDB API! Utilizing Retrofit for seamless data fetching and Navigation Compose for smooth navigation, it's a testament to modern Android development. Following MVVM architecture
