@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MovieApp.splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#090909</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/baseline_airport_shuttle_24</item>
+        <item name="postSplashScreenTheme">@style/Theme.MovieApp</item>
+    </style>
+</resources>
